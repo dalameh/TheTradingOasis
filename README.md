@@ -90,7 +90,7 @@ This project serves as both a **working demo** and a **template** for developers
   
 - **Backend:** 
   - FastAPI + Uvicorn + Gunicorn, deployed on AWS App Runner 
-  - Containerized and deployed multiple FastAPI microservices on AWS ECR and ECS
+  - Containerized and deployed multiple FastAPI microservices on AWS ECR and AWS App Runner
   - Built Docker workflows with automated image tagging and secure authentication
   - Managed API routing, environment variables, and scaling for production-ready services
   - Implemented CI/CD pipelines to streamline updates and ensure reliable uptime
@@ -110,7 +110,7 @@ This project serves as both a **working demo** and a **template** for developers
 ## Try it out!
 
 - Visit the live app: [thetradingoasis.vercel.app](https://thetradingoasis.vercel.app)  
-- Explore the **Swagger API**: Docs:** [Swagger / OpenAPI](https://63hik2jr4c.us-east-1.awsapprunner.com/docs)
+- Explore the **Swagger API**: Docs: [Swagger / OpenAPI](https://63hik2jr4c.us-east-1.awsapprunner.com/docs)
 
 - Feel free to play with all features — add watchlists, log trades, and explore charts!  
 
