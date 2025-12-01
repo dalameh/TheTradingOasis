@@ -89,11 +89,10 @@ This project serves as both a **working demo** and a **template** for developers
   - Communicates with backend via REST API  
   
 - **Backend:** 
-  - FastAPI + Uvicorn + Gunicorn, deployed on AWS App Runner 
-  - Containerized and deployed multiple FastAPI microservices on AWS ECR and AWS App Runner
-  - Built Docker workflows with automated image tagging and secure authentication
-  - Managed API routing, environment variables, and scaling for production-ready services
-  - Implemented CI/CD pipelines to streamline updates and ensure reliable uptime
+  - Architected and deployed highly performant, asynchronous RESTful APIs using FastAPI paired with Uvicorn/Gunicorn for optimized concurrency and request handling.
+  - Streamlined continuous deployment for microservices by leveraging AWS ECR and AWS App Runner to automate service delivery and minimize operational overhead (Serverless Containers).
+  - Engineered robust Docker build workflows with automated image tagging and implemented secure IAM-based repository authentication to AWS ECR, ensuring image integrity and auditability.
+  - Optimized production service health and resource utilization by configuring API routing, managing sensitive environment variables, and defining concurrency-based autoscaling policies within App Runner.
 
 - **Database:** Supabase (PostgreSQL)  
   - Persistent storage for trades, watchlists, and user info  
