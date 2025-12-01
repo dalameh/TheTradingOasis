@@ -71,8 +71,10 @@ This project serves as both a **working demo** and a **template** for developers
 <img width="1919" height="820" alt="image" src="https://github.com/user-attachments/assets/7d935d3f-bcd4-438f-b9f0-f17f490c5157" />
 
 ### 7. **Technical Scans**
-- Utilizing data anlaysis and supervised machine learning (KMeans) -- Scan assets for market regimes (bullish/netural/bearish)
-- Identify trends, SMA-50 & SMA-200 crossovers
+- Extracting, transforming, and loading timeseries data
+- Utilizing Hidden Markov Model with a KMeans initialization providing a probabilistic sequence of market regime shifts
+  (bullish, neutral, bearish) within thin the given market
+- Displays simple moving averages, providing an alternative to market trend shifts (SMA-50 & SMA-200 crossovers)
 
 <img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/78d28e05-4d3b-49fb-ad66-aa9310b93754" />
 
