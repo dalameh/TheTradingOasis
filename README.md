@@ -46,6 +46,9 @@ This project serves as both a **working demo** and a **template** for developers
 ### 3. **News & Headlines**
 - View real-time market headlines and updates  
 - Quickly assess market sentiment
+- Headline Sentiment RESTful API built with **FastAPI**  
+- Endpoints for Headline Sentiment Analysis (CRUD Operations)
+- API documentation automatically available [here](https://63hik2jr4c.us-east-1.awsapprunner.com/docs)
 
 <img width="1919" height="820" alt="image" src="https://github.com/user-attachments/assets/4dbfc0ea-8d0d-45f3-bade-586b38fd51e8" />
 
@@ -77,11 +80,6 @@ This project serves as both a **working demo** and a **template** for developers
 - Displays simple moving averages, providing an alternative to market trend shift detection (SMA-50 & SMA-200 crossovers)
 
 <img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/78d28e05-4d3b-49fb-ad66-aa9310b93754" />
-
-### 8. **Headline Sentiment RESTful API**
-- Built with **FastAPI**  
-- Endpoints for Headline Sentiment Analysis (CRUD Operations)
-- API documentation automatically available [here](https://63hik2jr4c.us-east-1.awsapprunner.com/docs)
 
 ---
 
