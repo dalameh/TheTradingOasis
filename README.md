@@ -74,7 +74,7 @@ This project serves as both a **working demo** and a **template** for developers
 - Utilizing data anlaysis and supervised machine learning (KMeans) -- Scan assets for market regimes (bullish/netural/bearish)
 - Identify trends, SMA-50 & SMA-200 crossovers
 
-<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/e4d185e2-87bd-4e8d-a549-27be7a3f27ec" />
+<img width="1919" height="826" alt="image" src="https://github.com/user-attachments/assets/78d28e05-4d3b-49fb-ad66-aa9310b93754" />
 
 ### 8. **Headline Sentiment RESTful API**
 - Built with **FastAPI**  
