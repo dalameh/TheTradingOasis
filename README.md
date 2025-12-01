@@ -62,6 +62,7 @@ This project serves as both a **working demo** and a **template** for developers
 - Add notes and photos for reference
 
 <img width="1917" height="819" alt="image" src="https://github.com/user-attachments/assets/a5c57bb3-e8eb-4680-8800-04962ff22073" />
+<img width="1919" height="824" alt="image" src="https://github.com/user-attachments/assets/776e7d4c-399c-4b6d-a89f-b09898c8ee83" />
 
 ### 6. **Playbook / Setup Checklist**
 - Create step-by-step trading guides or personal checklists  
