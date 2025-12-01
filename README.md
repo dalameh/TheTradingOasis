@@ -87,9 +87,10 @@ This project serves as both a **working demo** and a **template** for developers
 
 - **Frontend:** Next.js + TypeScript + Tailwind CSS  
   - Responsive, fast, and interactive UI  
-  - Communicates with backend via REST API  
+  - Communicates with backend via REST API  \
+  - Deployed on **Vercel**
   
-- **Backend:** 
+- **Backend: (RESTful API for Sentiment Analysis)** 
   - Architected and deployed highly performant, asynchronous RESTful APIs using FastAPI paired with Uvicorn/Gunicorn for optimized concurrency and request handling.
   - Streamlined continuous deployment for microservices by leveraging AWS ECR and AWS App Runner to automate service delivery and minimize operational overhead (Serverless Containers).
   - Engineered robust Docker build workflows with automated image tagging and implemented secure IAM-based repository authentication using the AWS CLI to AWS ECR, ensuring image integrity and auditability.
