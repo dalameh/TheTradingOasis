@@ -89,16 +89,21 @@ This project serves as both a **working demo** and a **template** for developers
   - Responsive, fast, and interactive UI  
   - Communicates with backend via REST API  \
   - Deployed on **Vercel**
-  
+
+  <img width="1467" height="623" alt="image" src="https://github.com/user-attachments/assets/04eabf69-6b86-4232-bc37-65d7e9e0d3e5" />
+
 - **Backend: (RESTful API for Sentiment Analysis)** 
   - Architected and deployed highly performant, asynchronous RESTful APIs using FastAPI paired with Uvicorn/Gunicorn for optimized concurrency and request handling.
   - Streamlined continuous deployment for microservices by leveraging AWS ECR and AWS App Runner to automate service delivery and minimize operational overhead (Serverless Containers).
   - Engineered robust Docker build workflows with automated image tagging and implemented secure IAM-based repository authentication using the AWS CLI to AWS ECR, ensuring image integrity and auditability.
   - Optimized production service health and resource utilization by configuring API routing, managing sensitive environment variables, and defining concurrency-based autoscaling policies within App Runner.
+
 <img width="1089" height="860" alt="image" src="https://github.com/user-attachments/assets/f6589850-73aa-4ddd-aa9e-56a23393a789" />
 
 - **Database:** Supabase (PostgreSQL)  
-  - Persistent storage for trades, watchlists, and user info  
+  - Persistent storage for trades, watchlists, and user info
+  
+<img width="1080" height="670" alt="image" src="https://github.com/user-attachments/assets/5b1ba3e6-d4e3-4945-a7e8-b39135b30e68" />
 
 ---
 
