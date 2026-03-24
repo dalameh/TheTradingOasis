@@ -90,7 +90,7 @@ This project serves as both a **working demo** and a **template** for developers
   - Communicates with backend via REST API  \
   - Deployed on **Vercel**
 
-  <img width="1467" height="623" alt="image" src="https://github.com/user-attachments/assets/04eabf69-6b86-4232-bc37-65d7e9e0d3e5" />
+<img width="1477" height="661" alt="image" src="https://github.com/user-attachments/assets/6b842bab-4348-4015-897b-11cd9bf8653a" />
 
 - **Backend: (RESTful API for Sentiment Analysis)** 
   - Architected and deployed highly performant, asynchronous RESTful APIs using FastAPI paired with Uvicorn/Gunicorn for optimized concurrency and request handling.
