@@ -87,7 +87,7 @@ This project serves as both a **working demo** and a **template** for developers
 
 - **Frontend:** Next.js + TypeScript + Tailwind CSS  
   - Responsive, fast, and interactive UI  
-  - Communicates with backend via REST API  \
+  - Communicates with backend via REST API
   - Deployed on **Vercel**
 
 <img width="1477" height="661" alt="image" src="https://github.com/user-attachments/assets/6b842bab-4348-4015-897b-11cd9bf8653a" />
