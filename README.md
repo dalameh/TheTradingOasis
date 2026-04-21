@@ -93,6 +93,8 @@ This project serves as both a **working demo** and a **template** for developers
 
 <img width="1477" height="661" alt="image" src="https://github.com/user-attachments/assets/6b842bab-4348-4015-897b-11cd9bf8653a"/>
 &nbsp;
+<img width="1605" height="569" alt="image" src="https://github.com/user-attachments/assets/042035c3-466f-4167-922a-ee79ff299487" />
+
 
 - **Backend: (RESTful API for Sentiment Analysis)** 
   - Architected and deployed highly performant, asynchronous RESTful APIs using FastAPI paired with Uvicorn/Gunicorn for optimized concurrency and request handling.
