@@ -24,7 +24,7 @@ This project serves as both a **working demo** and a **template** for developers
 
 <img width="1477" height="857" alt="image" src="https://github.com/user-attachments/assets/2e16a550-8bd0-4ed9-bef3-a5c3be76ac9b" />
 &nbsp;
-<img width="1547" height="881" alt="image" src="https://github.com/user-attachments/assets/0eb7189e-1bf5-4d0c-bdf1-e5c8888c9cc0" />
+<img width="716" height="437" alt="image" src="https://github.com/user-attachments/assets/fde24d92-5d28-4bbb-83fa-08edd8693a61" />
 
 ---
 
