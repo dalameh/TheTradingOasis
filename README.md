@@ -96,7 +96,7 @@ This project serves as both a **working demo** and a **template** for developers
 &nbsp;
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/042035c3-466f-4167-922a-ee79ff299487" width="47%" />
+  <img src="https://github.com/user-attachments/assets/042035c3-466f-4167-922a-ee79ff299487" width="55%" />
   <img src="https://github.com/user-attachments/assets/b9dc131d-dcdc-44be-864d-c93d122d5ead" width="45%" />
 </p>
 
