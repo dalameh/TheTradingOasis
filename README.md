@@ -65,9 +65,7 @@ This project serves as both a **working demo** and a **template** for developers
 - Add notes and photos for reference
 
 <img width="1917" height="819" alt="image" src="https://github.com/user-attachments/assets/a5c57bb3-e8eb-4680-8800-04962ff22073" />
-
----
-
+&nbsp;
 <img width="1919" height="824" alt="image" src="https://github.com/user-attachments/assets/776e7d4c-399c-4b6d-a89f-b09898c8ee83" />
 
 ### 6. **Playbook / Setup Checklist**
@@ -94,7 +92,7 @@ This project serves as both a **working demo** and a **template** for developers
   - Deployed on **Vercel**
 
 <img width="1477" height="661" alt="image" src="https://github.com/user-attachments/assets/6b842bab-4348-4015-897b-11cd9bf8653a"/>
-
+&nbsp;
 
 - **Backend: (RESTful API for Sentiment Analysis)** 
   - Architected and deployed highly performant, asynchronous RESTful APIs using FastAPI paired with Uvicorn/Gunicorn for optimized concurrency and request handling.
@@ -103,12 +101,13 @@ This project serves as both a **working demo** and a **template** for developers
   - Optimized production service health and resource utilization by configuring API routing, managing sensitive environment variables, and defining concurrency-based autoscaling policies within App Runner.
 
 <img width="1089" height="860" alt="image" src="https://github.com/user-attachments/assets/f6589850-73aa-4ddd-aa9e-56a23393a789" />
+&nbsp;
+<img width="950" height="139" alt="Screenshot 2026-04-21 095346" src="https://github.com/user-attachments/assets/238ab15a-8b07-4e26-8551-b2e9d353e428" />
+&nbsp;
 
 - **Database:** Supabase (PostgreSQL)  
   - Persistent storage for trades, watchlists, and user info
-
-<img width="1900" height="278" alt="image" src="https://github.com/user-attachments/assets/fa3b3a19-0da1-4b38-8ea8-5df3653e8643" />
-
+&nbsp;
 <img width="1080" height="670" alt="image" src="https://github.com/user-attachments/assets/5b1ba3e6-d4e3-4945-a7e8-b39135b30e68" />
 
 ---
