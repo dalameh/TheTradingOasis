@@ -125,9 +125,41 @@ This project serves as both a **working demo** and a **template** for developers
 
 ---
 
-## Try it out!
+## Want the UI? Go ahead!
 
+## 🚀 Getting Started
+### Prerequisites
+- Node.js 18+
+- 
+### Installation
+1. **Clone the repo**
+```bash
+   git clone https://github.com/dalameh/thetradingoasis.git
+   cd thetradingoasis
+```
+2. **Install dependencies**
+```bash
+   npm install
+```
+3. **Set up environment variables**
 
+   Create a `.env.local` file in the root of the project and add the following:
+```env
+   # Supabase
+   NEXT_PUBLIC_SUPABASE_URL=
+   NEXT_PUBLIC_SUPABASE_ANON_KEY=
+   SUPABASE_SERVICE_ROLE_KEY=
+   FINNHUB_API_KEY=
+   SENTIMENT_API_KEY=
+   HMM_API_URL=
+   SENTIMENT_API_URL=
+```
+
+4. **Run the development server**
+```bash
+   npm run dev
+```
+5. Open [http://localhost:3000](http://localhost:3000)
 
 ---
 
