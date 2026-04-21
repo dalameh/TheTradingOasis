@@ -128,14 +128,15 @@ This project serves as both a **working demo** and a **template** for developers
 ## Want the UI? Go ahead!
 
 ## 🚀 Getting Started
+
 ### Prerequisites
 - Node.js 18+
 
 ### Installation
 1. **Clone the repo**
 ```bash
-   git clone https://github.com/dalameh/TheTradingOasis.git
-   cd thetradingoasis
+   git clone https://github.com/david-alameh/thetradingoasis.git
+   cd TheTradingOasis/frontend
 ```
 2. **Install dependencies**
 ```bash
@@ -143,7 +144,11 @@ This project serves as both a **working demo** and a **template** for developers
 ```
 3. **Set up environment variables**
 
-   Create a `.env.local` file in the root of the project and add the following:
+   Create a `.env.local` file:
+```bash
+   touch .env.local
+```
+   Then open it and add the following:
 ```env
    # Supabase
    NEXT_PUBLIC_SUPABASE_URL=
@@ -154,7 +159,6 @@ This project serves as both a **working demo** and a **template** for developers
    HMM_API_URL=
    SENTIMENT_API_URL=
 ```
-
 4. **Run the development server**
 ```bash
    npm run dev
