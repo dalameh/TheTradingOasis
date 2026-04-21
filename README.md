@@ -152,11 +152,11 @@ This project serves as both a **working demo** and a **template** for developers
 4. **Run the development server**
 ```bash
    npm run dev
-   Note: APIs are deeply ingrained into the framework, so compiling without the APIs will likely not work on your end.
-         So please feel free to extract UI code for your own projects (all located in /app and /components)
 ```
 
 5. Open [http://localhost:3000](http://localhost:3000)
+
+> **Note:** The APIs are deeply integrated into the app, so running the project locally may not work without access to the backend services. Feel free to extract any UI code for your own projects — all components are located in `/app` and `/components`.
 
 ---
 
