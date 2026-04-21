@@ -105,9 +105,9 @@ This project serves as both a **working demo** and a **template** for developers
 &nbsp;
 <img width="1089" height="860" alt="image" src="https://github.com/user-attachments/assets/f6589850-73aa-4ddd-aa9e-56a23393a789" />
 &nbsp;
-
 [▶ Press to See API Swagger Doc](https://github.com/dalameh/TheTradingOasis/releases/download/API/Financial.Sentiment.API.Swagger.Doc.Video.mp4)
 &nbsp;
+
 - **Database:** Supabase (PostgreSQL)  
   - Persistent storage for trades, watchlists, and user info
 &nbsp;
