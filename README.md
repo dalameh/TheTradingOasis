@@ -100,6 +100,8 @@ This project serves as both a **working demo** and a **template** for developers
   - Engineered robust Docker build workflows with automated image tagging and implemented secure IAM-based repository authentication using the AWS CLI to AWS ECR, ensuring image integrity and auditability.
   - Optimized production service health and resource utilization by configuring API routing, managing sensitive environment variables, and defining concurrency-based autoscaling policies within App Runner.
 
+<img width="814" height="124" alt="Screenshot 2026-04-21 100647" src="https://github.com/user-attachments/assets/65f4d83d-6e60-4b1b-9db3-01140a202cd1" />
+&nbsp;
 <img width="950" height="139" alt="Screenshot 2026-04-21 095346" src="https://github.com/user-attachments/assets/238ab15a-8b07-4e26-8551-b2e9d353e428" />
 &nbsp;
 <img width="1089" height="860" alt="image" src="https://github.com/user-attachments/assets/f6589850-73aa-4ddd-aa9e-56a23393a789" />
