@@ -45,7 +45,6 @@ This project serves as both a **working demo** and a **template** for developers
 - Quickly assess market sentiment
 - Headline Sentiment RESTful API built with **FastAPI**  
 - Endpoints for Headline Sentiment Analysis (CRUD Operations)
-- API documentation automatically available [here](https://63hik2jr4c.us-east-1.awsapprunner.com/docs)
 
 <img width="1919" height="820" alt="image" src="https://github.com/user-attachments/assets/4dbfc0ea-8d0d-45f3-bade-586b38fd51e8" />
 
@@ -116,19 +115,9 @@ This project serves as both a **working demo** and a **template** for developers
 
 ---
 
-## Notes
-- Built on a $0 budget, so backend may have **slight cold starts** — please be patient for first requests.  
-- Fully functional, but still a **prototype**, so expect small tweaks and ongoing improvements.  
-- The frontend is fully optimized for interactivity.
-
----
-
 ## Try it out!
 
-- Visit the live app: [thetradingoasis.vercel.app](https://thetradingoasis.vercel.app)  
-- Explore the **Swagger API**: Docs: [Swagger / OpenAPI](https://63hik2jr4c.us-east-1.awsapprunner.com/docs)
 
-- Feel free to play with all features — add watchlists, log trades, and explore charts!  
 
 ---
 
