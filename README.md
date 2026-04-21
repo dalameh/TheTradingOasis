@@ -93,7 +93,8 @@ This project serves as both a **working demo** and a **template** for developers
   - Communicates with backend via REST API
   - Deployed on **Vercel**
 
-<img width="1477" height="661" alt="image" src="https://github.com/user-attachments/assets/6b842bab-4348-4015-897b-11cd9bf8653a" />
+<img width="1477" height="661" alt="image" src="https://github.com/user-attachments/assets/6b842bab-4348-4015-897b-11cd9bf8653a"/>
+
 
 - **Backend: (RESTful API for Sentiment Analysis)** 
   - Architected and deployed highly performant, asynchronous RESTful APIs using FastAPI paired with Uvicorn/Gunicorn for optimized concurrency and request handling.
@@ -105,7 +106,9 @@ This project serves as both a **working demo** and a **template** for developers
 
 - **Database:** Supabase (PostgreSQL)  
   - Persistent storage for trades, watchlists, and user info
-  
+
+<img width="1900" height="278" alt="image" src="https://github.com/user-attachments/assets/fa3b3a19-0da1-4b38-8ea8-5df3653e8643" />
+
 <img width="1080" height="670" alt="image" src="https://github.com/user-attachments/assets/5b1ba3e6-d4e3-4945-a7e8-b39135b30e68" />
 
 ---
