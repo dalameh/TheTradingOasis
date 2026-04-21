@@ -134,7 +134,7 @@ This project serves as both a **working demo** and a **template** for developers
 ### Installation
 1. **Clone the repo**
 ```bash
-   git clone https://github.com/dalameh/thetradingoasis.git
+   git clone https://github.com/dalameh/TheTradingOasis.git
    cd thetradingoasis
 ```
 2. **Install dependencies**
