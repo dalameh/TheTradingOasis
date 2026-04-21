@@ -104,8 +104,9 @@ This project serves as both a **working demo** and a **template** for developers
 <img width="950" height="139" alt="Screenshot 2026-04-21 095346" src="https://github.com/user-attachments/assets/238ab15a-8b07-4e26-8551-b2e9d353e428" />
 &nbsp;
 <img width="1089" height="860" alt="image" src="https://github.com/user-attachments/assets/f6589850-73aa-4ddd-aa9e-56a23393a789" />
+&nbsp;
 
-[▶ Press to See API Swagger Doc](https://github.com/dalameh/TheTradingOasis/releases/download/API/Financial.Sentiment.API.Swagger.Doc.Video.mp4)
+[▶ Press to See API Swagger Doc Video](https://github.com/dalameh/TheTradingOasis/releases/download/API/Financial.Sentiment.API.Swagger.Doc.Video.mp4)
 
 &nbsp;
 - **Database:** Supabase (PostgreSQL)  
