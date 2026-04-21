@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8eeadb11-104a-4f4a-8e3c-9512adcd6148" width="400" height="400" alt="Copilot_20250730_140521-Photoroom" />
+  <img width="512" height="512" alt="Oasis" src="https://github.com/user-attachments/assets/789d6b79-fb0e-4996-83ab-7558d274f1c7" />
 </p>
 
 # The Trading Oasis 🌊📈 (MVP)
