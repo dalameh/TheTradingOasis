@@ -40,7 +40,7 @@ This project serves as both a **working demo** and a **template** for developers
 
 ### 2. **Market Charts**
 - Interactive TradingView Lightweight Charts  
-- Visualize price trends and SMA-200 indicators  
+- Visualize price trends 
 - Supports candlestick and area chart views
 
 <img width="1919" height="820" alt="image" src="https://github.com/user-attachments/assets/b3632739-54eb-46d4-9211-9c3e567a2d88" />
