@@ -23,7 +23,7 @@ Leveraging a **modern full-stack architecture**, the frontend uses **Next.js (Re
 This project serves as both a **working demo** and a **template** for developers interested in building full-stack financial apps.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2e16a550-8bd0-4ed9-bef3-a5c3be76ac9b" width="50%" />
+  <img src="https://github.com/user-attachments/assets/2e16a550-8bd0-4ed9-bef3-a5c3be76ac9b" width="47%" />
   <img src="https://github.com/user-attachments/assets/fde24d92-5d28-4bbb-83fa-08edd8693a61" width="45%" />
 </p>
 
