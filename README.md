@@ -148,20 +148,14 @@ This project serves as both a **working demo** and a **template** for developers
 ```bash
    touch .env.local
 ```
-   Then open it and add the following:
-```env
-   NEXT_PUBLIC_SUPABASE_URL=
-   NEXT_PUBLIC_SUPABASE_ANON_KEY=
-   SUPABASE_SERVICE_ROLE_KEY=
-   FINNHUB_API_KEY=
-   SENTIMENT_API_KEY=
-   HMM_API_URL=
-   SENTIMENT_API_URL=
-```
+
 4. **Run the development server**
 ```bash
    npm run dev
+  Note: APIs are deeply ingrained into the framework, so compiling without the APIs will likely not work on your end.
+  So please feel free to extract UI code for your own projects (all located in /app and /components)
 ```
+
 5. Open [http://localhost:3000](http://localhost:3000)
 
 ---
