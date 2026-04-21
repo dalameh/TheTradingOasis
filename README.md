@@ -127,7 +127,7 @@ This project serves as both a **working demo** and a **template** for developers
 
 ## Want the UI? Go ahead!
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 ### Prerequisites
 - Node.js 18+
