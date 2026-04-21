@@ -150,7 +150,6 @@ This project serves as both a **working demo** and a **template** for developers
 ```
    Then open it and add the following:
 ```env
-   # Supabase
    NEXT_PUBLIC_SUPABASE_URL=
    NEXT_PUBLIC_SUPABASE_ANON_KEY=
    SUPABASE_SERVICE_ROLE_KEY=
