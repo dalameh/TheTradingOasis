@@ -85,7 +85,7 @@ This project serves as both a **working demo** and a **template** for developers
 
 ---
 
-## Backend / Frontend Architecture
+## Frontend / Backend Architecture
 
 - **Frontend:** Next.js + TypeScript + Tailwind CSS  
   - Responsive, fast, and interactive UI  
@@ -135,7 +135,7 @@ This project serves as both a **working demo** and a **template** for developers
 ### Installation
 1. **Clone the repo**
 ```bash
-   git clone https://github.com/david-alameh/thetradingoasis.git
+   git clone https://github.com/dalameh/TheTradingOasis.git
    cd TheTradingOasis/frontend
 ```
 2. **Install dependencies**
