@@ -102,7 +102,7 @@ This project serves as both a **working demo** and a **template** for developers
 
 - **Backend: (RESTful API for Sentiment Analysis)** 
   - Architected and deployed highly performant, asynchronous RESTful APIs using FastAPI paired with Uvicorn/Gunicorn for optimized concurrency and request handling.
-  - Streamlined continuous deployment for microservices by leveraging AWS ECR and AWS App Runner to automate service delivery and minimize operational overhead (Serverless Containers).
+  - Streamlined continuous deployment for microservices by leveraging AWS ECR and AWS App Runner (public endpoint) to automate service delivery and minimize operational overhead (Serverless Containers).
   - Engineered robust Docker build workflows with automated image tagging and implemented secure IAM-based repository authentication using the AWS CLI to AWS ECR, ensuring image integrity and auditability.
   - Optimized production service health and resource utilization by configuring API routing, managing sensitive environment variables, and defining concurrency-based autoscaling policies within App Runner.
 
