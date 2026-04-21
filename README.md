@@ -130,7 +130,7 @@ This project serves as both a **working demo** and a **template** for developers
 ## 🚀 Getting Started
 ### Prerequisites
 - Node.js 18+
-- 
+
 ### Installation
 1. **Clone the repo**
 ```bash
