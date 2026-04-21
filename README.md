@@ -110,7 +110,7 @@ This project serves as both a **working demo** and a **template** for developers
 
 &nbsp;
 - **Database:** Supabase (PostgreSQL)  
-  - Persistent storage for trades, watchlists, and user info
+  - Persistent storage for trades, watchlists, setups, tickers and user info & preferences
 &nbsp;
 <img width="1080" height="670" alt="image" src="https://github.com/user-attachments/assets/5b1ba3e6-d4e3-4945-a7e8-b39135b30e68" />
 
